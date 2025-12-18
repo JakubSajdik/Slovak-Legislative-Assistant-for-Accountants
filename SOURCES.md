@@ -1,4 +1,4 @@
-Slov-Lex (Zbierka zákonov SR)
+Slov-Lex (Zbierka zákonov SR)\n
 URL: https://www.slov-lex.sk/
 Institution: Ministerstvo spravodlivosti SR (Ministry of Justice of the Slovak Republic)
 static.slov-lex.sk
